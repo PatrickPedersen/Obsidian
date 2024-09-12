@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BWC/Information Technology/Services.md",
+                "file": "BWC/Information Technology/Cloudflare.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BWC/Information Technology/Services.md",
+                "file": "BWC/Information Technology/Cloudflare.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BWC/Information Technology/Services.md",
+                "file": "BWC/Information Technology/Cloudflare.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BWC/Information Technology/Services.md"
+                "file": "BWC/Information Technology/Cloudflare.md"
               }
             }
           },
@@ -158,11 +158,12 @@
   },
   "active": "58afefccc34a8d61",
   "lastOpenFiles": [
-    "BWC/Information Technology/Services.md",
-    "BWC/Information Technology",
-    "BWC",
-    "DTU/Azure/ExchangeOnline/ExchangeOnline - Mail - Udstyr.md",
-    "Untitled.canvas",
+    "BWC/Information Technology/Docker.md",
+    "BWC/Information Technology/Cloudflare.md",
+    "BWC/Information Technology/Server.md",
+    "BWC/Information Technology/Email.md",
+    "BWC/Information Technology/Monitoring.md",
+    "Main Server.md",
     "Skole/H2/Linux/DHCP.md",
     "Skole/H2/Linux/DNS - Named.md",
     "Skole/H2/Linux/Firewall - OPNsense.md",
@@ -171,6 +172,10 @@
     "Skole/H2/Linux/SQL.md",
     "Skole/H2/Linux/Webserver.md",
     "Skole/H2/Linux/Wordpress.md",
+    "BWC/Information Technology",
+    "BWC",
+    "DTU/Azure/ExchangeOnline/ExchangeOnline - Mail - Udstyr.md",
+    "Untitled.canvas",
     "Skole/H2/Netværk/Repetition Topologi.md",
     "DTU/Azure/ExchangeOnline/ExchangeOnline - Calendar.md",
     "DTU/Azure/ExchangeOnline/ExchangeOnline - Mail.md",
