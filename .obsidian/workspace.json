@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "27f85dde7fbe6dd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9168eb417831d97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58afefccc34a8d61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BWC/Information Technology/Services.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd1f218ed6247e71",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ca268c1152454bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb7b6b4ac0ffcd46",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "52c5e115732aaa8c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1f61603961828903",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dba37ab5da8d8dc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "81468ba3258cadc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f85058b0679b1bce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "BWC/Information Technology/Services.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "d46df03bf1ee13d8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "BWC/Information Technology/Services.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "46ff9c77dde625a4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2a62f23c2387491d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "BWC/Information Technology/Services.md"
+              }
+            }
+          },
+          {
+            "id": "21ad0f08a6955ed2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 322.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "58afefccc34a8d61",
+  "lastOpenFiles": [
+    "BWC/Information Technology/Services.md",
+    "BWC/Information Technology",
+    "BWC",
+    "DTU/Azure/ExchangeOnline/ExchangeOnline - Mail - Udstyr.md",
+    "Untitled.canvas",
+    "Skole/H2/Linux/DHCP.md",
+    "Skole/H2/Linux/DNS - Named.md",
+    "Skole/H2/Linux/Firewall - OPNsense.md",
+    "Skole/H2/Linux/FTP.md",
+    "Skole/H2/Linux/Master.md",
+    "Skole/H2/Linux/SQL.md",
+    "Skole/H2/Linux/Webserver.md",
+    "Skole/H2/Linux/Wordpress.md",
+    "Skole/H2/Netværk/Repetition Topologi.md",
+    "DTU/Azure/ExchangeOnline/ExchangeOnline - Calendar.md",
+    "DTU/Azure/ExchangeOnline/ExchangeOnline - Mail.md",
+    "DTU/Azure/ExchangeOnline/ExchangeOnline - Mail - Shared.md",
+    "DTU/Azure/ExchangeOnline/ExchangeOnline - Main.md",
+    "DTU/M365/OneDrive - Student regain access.md",
+    "Skole/H3/Windows Systemer/Powershell.md",
+    "Skole/H3/Windows Systemer",
+    "Skole/H3",
+    "DTU",
+    "Skole",
+    "DTU/M365",
+    "Azure.7z",
+    "Azure.7z.tmp",
+    "DTU/Azure/ExchangeOnline",
+    "Repitation.md"
+  ]
+}
