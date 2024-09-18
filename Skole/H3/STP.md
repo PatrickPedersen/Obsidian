@@ -58,3 +58,16 @@ BDPU guard er typisk konfigureret mod slut devices.
 #### Loop Guard:
 Prevents root ports and alternative ports from becoming designated ports.
 Loop Guard placerer porten in i en ErrDisabled state mens BPDUer ikke bliver modtaget eller sendt.
+
+## MST
+MST laver en MSTI instance hvilket gør det muligt at slå identiske VLAN STP topologier sammen.
+
+MST switche ser hele overblikket da de ser alle switche i alle MST instanser. Alle switche uden for MST ser kun instansen som en switch.
+
+MST tager alle porte der ikke er blevet konfigureret til andre instanser og ligger dem under IST 0.
+
+Alle VLANs der ikke er specificeret til en given MST instance ligger i Instance 0 som default.
+
+Note: Up to 16 MST instances are supported by default.
+Note: It is best practice to move all active VLANs to created instances.
+
