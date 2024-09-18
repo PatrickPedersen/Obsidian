@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BWC/Information Technology/Cloudflare.md",
+                "file": "Skole/H3/STP.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BWC/Information Technology/Cloudflare.md",
+                "file": "Skole/H3/STP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BWC/Information Technology/Cloudflare.md",
+                "file": "Skole/H3/STP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BWC/Information Technology/Cloudflare.md"
+                "file": "Skole/H3/STP.md"
               }
             }
           },
@@ -158,8 +158,11 @@
   },
   "active": "58afefccc34a8d61",
   "lastOpenFiles": [
-    "BWC/Information Technology/Docker.md",
+    "Untitled.md",
+    "Skole/H3/STP.md",
+    "Skole/H3",
     "BWC/Information Technology/Cloudflare.md",
+    "BWC/Information Technology/Docker.md",
     "BWC/Information Technology/Server.md",
     "BWC/Information Technology/Email.md",
     "BWC/Information Technology/Monitoring.md",
@@ -190,7 +193,6 @@
     "DTU/M365",
     "Azure.7z",
     "Azure.7z.tmp",
-    "DTU/Azure/ExchangeOnline",
     "Repitation.md"
   ]
 }
