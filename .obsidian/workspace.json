@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skole/Port List.md",
-                "mode": "preview",
+                "file": "Skole/Password Types.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skole/Port List.md",
+                "file": "Skole/Password Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skole/Port List.md",
+                "file": "Skole/Password Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skole/Port List.md"
+                "file": "Skole/Password Types.md"
               }
             }
           },
@@ -158,8 +158,9 @@
   },
   "active": "97e575a78a718185",
   "lastOpenFiles": [
-    "Skole/H3/STP.md",
     "Skole/Port List.md",
+    "Skole/Password Types.md",
+    "Skole/H3/STP.md",
     "Skole/H2/Netværk/Repetition Topologi.md",
     "Skole/H2/Linux/Wordpress.md",
     "Skole/H2/Linux/Webserver.md",
@@ -193,7 +194,6 @@
     "DTU/M365",
     "Azure.7z",
     "Azure.7z.tmp",
-    "DTU/Azure/ExchangeOnline",
-    "Repitation.md"
+    "DTU/Azure/ExchangeOnline"
   ]
 }
