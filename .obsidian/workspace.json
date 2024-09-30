@@ -11,8 +11,12 @@
             "id": "97e575a78a718185",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Skole/Port List.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Skole/Port List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Skole/Port List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Skole/Port List.md"
+              }
             }
           },
           {
@@ -148,9 +156,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fb7b6b4ac0ffcd46",
+  "active": "97e575a78a718185",
   "lastOpenFiles": [
     "Skole/H3/STP.md",
+    "Skole/Port List.md",
+    "Skole/H2/Netværk/Repetition Topologi.md",
+    "Skole/H2/Linux/Wordpress.md",
+    "Skole/H2/Linux/Webserver.md",
+    "Skole/H2/Linux/Master.md",
+    "Skole/H2/Linux/FTP.md",
+    "Skole/H2/Linux/DNS - Named.md",
+    "Skole/H2/Linux/DHCP.md",
+    "12.md",
     "BWC/Information Technology/Server.md",
     "Skole/H3",
     "BWC/Information Technology/Docker.md",
@@ -158,19 +175,12 @@
     "BWC/Information Technology/Email.md",
     "BWC/Information Technology/Monitoring.md",
     "Main Server.md",
-    "Skole/H2/Linux/DHCP.md",
-    "Skole/H2/Linux/DNS - Named.md",
     "Skole/H2/Linux/Firewall - OPNsense.md",
-    "Skole/H2/Linux/FTP.md",
-    "Skole/H2/Linux/Master.md",
     "Skole/H2/Linux/SQL.md",
-    "Skole/H2/Linux/Webserver.md",
-    "Skole/H2/Linux/Wordpress.md",
     "BWC/Information Technology",
     "BWC",
     "DTU/Azure/ExchangeOnline/ExchangeOnline - Mail - Udstyr.md",
     "Untitled.canvas",
-    "Skole/H2/Netværk/Repetition Topologi.md",
     "DTU/Azure/ExchangeOnline/ExchangeOnline - Calendar.md",
     "DTU/Azure/ExchangeOnline/ExchangeOnline - Mail.md",
     "DTU/Azure/ExchangeOnline/ExchangeOnline - Mail - Shared.md",
