@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e9ba2fcb7d10264d",
+        "id": "c9168eb417831d97",
         "type": "tabs",
         "children": [
           {
-            "id": "97e575a78a718185",
+            "id": "58afefccc34a8d61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skole/Password Types.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f3f98bc8d044ede",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Skole/IEEE Standards.md",
+                "file": "Skole/Port List.md",
                 "mode": "preview",
-                "source": false
-              }
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Port List"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -52,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -67,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -75,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -98,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skole/IEEE Standards.md",
+                "file": "Skole/Port List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Port List"
             }
           },
           {
@@ -115,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skole/IEEE Standards.md",
+                "file": "Skole/Port List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Port List"
             }
           },
           {
@@ -129,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -138,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skole/IEEE Standards.md"
-              }
+                "file": "Skole/Port List.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Port List"
             }
           },
           {
@@ -147,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -169,44 +174,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f3f98bc8d044ede",
+  "active": "58afefccc34a8d61",
   "lastOpenFiles": [
     "Skole/Password Types.md",
     "Skole/IEEE Standards.md",
-    "Skole/Port List.md",
     "Skole/H3/STP.md",
-    "Skole/H2/Netværk/Repetition Topologi.md",
-    "Skole/H2/Linux/Wordpress.md",
-    "Skole/H2/Linux/Webserver.md",
-    "Skole/H2/Linux/Master.md",
-    "Skole/H2/Linux/FTP.md",
-    "Skole/H2/Linux/DNS - Named.md",
-    "Skole/H2/Linux/DHCP.md",
-    "12.md",
-    "BWC/Information Technology/Server.md",
+    "Skole/Port List.md",
+    "Untitled.md",
     "Skole/H3",
-    "BWC/Information Technology/Docker.md",
     "BWC/Information Technology/Cloudflare.md",
+    "BWC/Information Technology/Docker.md",
+    "BWC/Information Technology/Server.md",
     "BWC/Information Technology/Email.md",
     "BWC/Information Technology/Monitoring.md",
     "Main Server.md",
+    "Skole/H2/Linux/DHCP.md",
+    "Skole/H2/Linux/DNS - Named.md",
     "Skole/H2/Linux/Firewall - OPNsense.md",
+    "Skole/H2/Linux/FTP.md",
+    "Skole/H2/Linux/Master.md",
     "Skole/H2/Linux/SQL.md",
+    "Skole/H2/Linux/Webserver.md",
+    "Skole/H2/Linux/Wordpress.md",
     "BWC/Information Technology",
     "BWC",
     "DTU/Azure/ExchangeOnline/ExchangeOnline - Mail - Udstyr.md",
     "Untitled.canvas",
+    "Skole/H2/Netværk/Repetition Topologi.md",
     "DTU/Azure/ExchangeOnline/ExchangeOnline - Calendar.md",
     "DTU/Azure/ExchangeOnline/ExchangeOnline - Mail.md",
     "DTU/Azure/ExchangeOnline/ExchangeOnline - Mail - Shared.md",
     "DTU/Azure/ExchangeOnline/ExchangeOnline - Main.md",
     "DTU/M365/OneDrive - Student regain access.md",
     "Skole/H3/Windows Systemer",
+    "Skole/H3",
     "DTU",
     "Skole",
     "DTU/M365",
     "Azure.7z",
-    "Azure.7z.tmp",
-    "DTU/Azure/ExchangeOnline"
+    "Azure.7z.tmp"
   ]
 }
