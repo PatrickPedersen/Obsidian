@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skole/Port List.md",
-                "mode": "preview",
+                "file": "Startup Scripts/EIGRP.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Port List"
+              "title": "EIGRP"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skole/Port List.md",
+                "file": "Startup Scripts/EIGRP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Port List"
+              "title": "Backlinks for EIGRP"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skole/Port List.md",
+                "file": "Startup Scripts/EIGRP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Port List"
+              "title": "Outgoing links from EIGRP"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skole/Port List.md"
+                "file": "Startup Scripts/EIGRP.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Port List"
+              "title": "Outline of EIGRP"
             }
           },
           {
@@ -176,10 +176,12 @@
   },
   "active": "58afefccc34a8d61",
   "lastOpenFiles": [
+    "Skole/Port List.md",
+    "Startup Scripts/EIGRP.md",
+    "Startup Scripts",
     "Skole/Password Types.md",
     "Skole/IEEE Standards.md",
     "Skole/H3/STP.md",
-    "Skole/Port List.md",
     "Untitled.md",
     "Skole/H3",
     "BWC/Information Technology/Cloudflare.md",
@@ -205,13 +207,11 @@
     "DTU/Azure/ExchangeOnline/ExchangeOnline - Mail.md",
     "DTU/Azure/ExchangeOnline/ExchangeOnline - Mail - Shared.md",
     "DTU/Azure/ExchangeOnline/ExchangeOnline - Main.md",
-    "DTU/M365/OneDrive - Student regain access.md",
     "Skole/H3/Windows Systemer",
     "Skole/H3",
     "DTU",
     "Skole",
     "DTU/M365",
-    "Azure.7z",
-    "Azure.7z.tmp"
+    "Azure.7z"
   ]
 }
