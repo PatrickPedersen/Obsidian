@@ -1,8 +1,11 @@
 ### Named EIGRP:
 ```
 R1 (config)# router eigrp <name>
-R1 (config-router)# address-family [ip|ipv6] unicast autonomous-system <as>
+R1 (config-router)# address-family [ipv4|ipv6] unicast autonomous-system <as>
 R1 (config-router-af)# eigrp router-id <x.x.x.x>
+
+#IPv4 network
+R1 (config-router-af)# network <network> <mask>
 
 # Passive interface
 R1 (config-router-af)# af-interface <interface>
@@ -11,14 +14,14 @@ R1 (config-router-af-interface)# end
 
 # Summary Address
 R1 (config)# router eigrp <name>
-R1 (config-router)# address-family [ip|ipv6] unicast autonomous-system <as>
+R1 (config-router)# address-family [ipv4|ipv6] unicast autonomous-system <as>
 R1 (config-router-af)# af-interface <interface>
 R1 (config-router-af-interface)# summary-address <network> <mask>
 R1 (config-router-af-interface)# end
 
 # Variance
 R1 (config)# router eigrp <name>
-R1 (config-router)# address-family [ip|ipv6] unicast autonomous-system <as>
+R1 (config-router)# address-family [ipv4|ipv6] unicast autonomous-system <as>
 R1 (config-router-af)# topology base
 R1 (config-router-af-topology)# variance 2
 R1 (config-router-af-topology)# end
