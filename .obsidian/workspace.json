@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skole/Password Types.md",
+                "file": "Startup Scripts/EIGRP.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Password Types"
+              "title": "EIGRP"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skole/Password Types.md",
+                "file": "Startup Scripts/EIGRP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Password Types"
+              "title": "Backlinks for EIGRP"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skole/Password Types.md",
+                "file": "Startup Scripts/EIGRP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Password Types"
+              "title": "Outgoing links from EIGRP"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skole/Password Types.md"
+                "file": "Startup Scripts/EIGRP.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Password Types"
+              "title": "Outline of EIGRP"
             }
           },
           {
@@ -176,11 +176,11 @@
   },
   "active": "58afefccc34a8d61",
   "lastOpenFiles": [
+    "Skole/Password Types.md",
     "Skole/IEEE Standards.md",
     "Skole/Port List.md",
     "Startup Scripts/EIGRP.md",
     "Startup Scripts",
-    "Skole/Password Types.md",
     "Skole/H3/STP.md",
     "Untitled.md",
     "Skole/H3",

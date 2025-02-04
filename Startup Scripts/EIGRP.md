@@ -15,6 +15,13 @@ R1 (config-router)# address-family ipv6 unicast autonomous-system <as>
 R1 (config-router-af)# af-interface <interface>
 R1 (config-router-af-interface)# summary-address <network> <mask>
 R1 (config-router-af-interface)# end
+
+# Variance
+R1 (config)# router eigrp <name>
+R1 (config-router)# address-family ipv6 unicast autonomous-system <as>
+R1 (config-router-af)# topology base
+R1 (config-router-af-topology)# variance 2
+R1 (config-router-af-topology)# end
 ```
 
 ### Classic EIGRP
@@ -30,6 +37,17 @@ R2 (config-if)# exit
 # Summary Address
 R2 (config)# interface <interface>
 R2 (config-if)# ipv6 summary-address eigrp <as> <network> <mask>
+
+# Bandwidth
+R2 (config)# interface <interface>
+R2 (config-if)# bandwidth <amount>
+R2 (config-if)# end
+
+# Prefix-list
+R2 (config)# ipv6 prefix-list <name> seq <number> <deny/permit> <network>
+R2 (config)# ipv6 router eigrp <as>
+R2 (config-rtr)# distribute-list prefix-list <name> out <interface>
+R2 (config-rtr)# end
 ```
 
 ### EIGRP Authentication
