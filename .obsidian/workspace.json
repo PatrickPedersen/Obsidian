@@ -25,12 +25,13 @@
             "id": "4f3f98bc8d044ede",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "diff-view",
               "state": {
-                "file": "Skole/H2/Netværk/Repetition Topologi.md"
+                "file": ".obsidian/workspace.json",
+                "staged": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Repetition Topologi"
+              "icon": "git-pull-request",
+              "title": "Diff View (workspace.json)"
             }
           }
         ],
@@ -141,7 +142,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -188,10 +191,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fb7b6b4ac0ffcd46",
+  "active": "21ad0f08a6955ed2",
   "lastOpenFiles": [
-    "Skole/Startup Scripts/EIGRP.md",
+    "HomeLab/Linux/SELinux.md",
     "Skole/H2/Netværk/Repetition Topologi.md",
+    "HomeLab/Linux",
+    "HomeLab",
+    "Skole/Startup Scripts/EIGRP.md",
     "Skole/Startup Scripts",
     "Skole/IEEE Standards.md",
     "Skole/Password Types.md",
@@ -220,12 +226,9 @@
     "DTU/Azure/ExchangeOnline/ExchangeOnline - Calendar.md",
     "DTU/Azure/ExchangeOnline/ExchangeOnline - Mail.md",
     "DTU/Azure/ExchangeOnline/ExchangeOnline - Mail - Shared.md",
-    "DTU/Azure/ExchangeOnline/ExchangeOnline - Main.md",
     "Skole/H3/Windows Systemer",
     "DTU",
     "Skole",
-    "DTU/M365",
-    "Azure.7z",
-    "Azure.7z.tmp"
+    "DTU/M365"
   ]
 }
