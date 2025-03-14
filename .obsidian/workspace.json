@@ -4,38 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e9ba2fcb7d10264d",
+        "id": "bc5463de1e28fd09",
         "type": "tabs",
         "children": [
           {
-            "id": "97e575a78a718185",
+            "id": "3ab808a6f3bfde1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skole/Password Types.md",
-                "mode": "source",
+                "file": "HomeLab/Linux/Rocky Linux Expand Disk.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Password Types"
-            }
-          },
-          {
-            "id": "4f3f98bc8d044ede",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
+              "title": "Rocky Linux Expand Disk"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,9 +177,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "21ad0f08a6955ed2",
+  "active": "3ab808a6f3bfde1e",
   "lastOpenFiles": [
     "HomeLab/Linux/SELinux.md",
+    "HomeLab/Linux/Rocky Linux Expand Disk.md",
     "Skole/H2/Netværk/Repetition Topologi.md",
     "HomeLab/Linux",
     "HomeLab",
@@ -225,7 +212,6 @@
     "Untitled.canvas",
     "DTU/Azure/ExchangeOnline/ExchangeOnline - Calendar.md",
     "DTU/Azure/ExchangeOnline/ExchangeOnline - Mail.md",
-    "DTU/Azure/ExchangeOnline/ExchangeOnline - Mail - Shared.md",
     "Skole/H3/Windows Systemer",
     "DTU",
     "Skole",
