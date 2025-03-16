@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HomeLab/Linux/Rocky Linux Expand Disk.md",
-                "mode": "preview",
+                "file": "HomeLab/K3S/Cluster Nodes.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rocky Linux Expand Disk"
+              "title": "Cluster Nodes"
             }
           }
         ]
@@ -179,8 +179,13 @@
   },
   "active": "3ab808a6f3bfde1e",
   "lastOpenFiles": [
+    "HomeLab/K3S/Ceph Rook.md",
+    "HomeLab/K3S/Cluster Nodes.md",
+    "HomeLab/K3S/Loadbalancer service and Traefik.md",
+    "HomeLab/K3S/Install.md",
     "HomeLab/Linux/SELinux.md",
     "HomeLab/Linux/Rocky Linux Expand Disk.md",
+    "HomeLab/K3S",
     "Skole/H2/Netværk/Repetition Topologi.md",
     "HomeLab/Linux",
     "HomeLab",
@@ -205,16 +210,11 @@
     "BWC/Information Technology/Monitoring.md",
     "Main Server.md",
     "Skole/H2/Linux/Firewall - OPNsense.md",
-    "Skole/H2/Linux/SQL.md",
     "BWC/Information Technology",
     "BWC",
-    "DTU/Azure/ExchangeOnline/ExchangeOnline - Mail - Udstyr.md",
     "Untitled.canvas",
-    "DTU/Azure/ExchangeOnline/ExchangeOnline - Calendar.md",
-    "DTU/Azure/ExchangeOnline/ExchangeOnline - Mail.md",
     "Skole/H3/Windows Systemer",
     "DTU",
-    "Skole",
-    "DTU/M365"
+    "Skole"
   ]
 }
