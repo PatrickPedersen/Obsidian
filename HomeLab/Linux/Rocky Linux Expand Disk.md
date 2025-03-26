@@ -4,6 +4,9 @@
 3) xfs_growfs /dev/mapper/rl-root
 ```
 
+If nothing shows with `lvdisplay` or `lvextend` doesn't return/find the volume group.
+Open `/etc/lvm/lvm.conf` with a text editor and edit `use_devicesfile = 0`. Now the volume group will show and the `lvextend` command will work.
+
 Useful commands:
 ```bash
   df -h
